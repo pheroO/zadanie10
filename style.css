@@ -1,0 +1,7 @@
+.ap1 {
+    filter: blur(5px);
+}
+
+.ap2 {
+    filter: grayscale(50%);
+}
